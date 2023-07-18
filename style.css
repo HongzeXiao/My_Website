@@ -1,0 +1,140 @@
+body{
+    position: relative;
+}
+
+.part-one{
+    background-color: #B9F3FC;
+    width: 100%;
+    text-align: center;
+}
+
+.part-one h1{
+    text-align: center;
+    color: #1BABF0;
+    clear: both;
+    font-size: 5.6rem;
+    font-family: 'Great Vibes', cursive;
+}
+
+.part-one h2{
+    color: #1EBBEF;
+    text-align: center;
+    font-size: 2.5rem;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    padding: 50px;
+    float: right;
+    margin-right: 100px;
+}
+
+.bottom-cloud{
+    padding: 50px 50px 0 50px;
+    margin-bottom: 0;
+    margin-left: 100px;
+    display: block;
+    position: absolute;
+    top: 300px;
+}
+
+.part-two{
+    height: auto;
+    width: auto;
+    text-align: center;
+    background-color: #CCEEF5;
+    position: relative;
+    
+}
+
+.photo{
+    margin-top: 60px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.part-two h2{
+    font-family: 'Libre Baskerville', serif;
+    color: #81ADF5;
+    position: relative;
+    top: 25px;
+}
+
+.pic p{
+    position: relative;
+    top: 50px;
+    color: #000;
+}
+
+.hr{
+    position: relative;
+    top: 100px;
+    border: dotted #0713F0 8px;
+    border-bottom: 0;
+    width: 10%;
+    margin-left: 45%;
+}
+
+.skill{
+    position: relative;
+    top: 150px;
+}
+
+.group{
+    display: grid;
+    width: 60%;
+    gap:2rem;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    position: relative;
+    text-align: left;
+    margin:100px auto 0 auto;
+}
+
+.group h3 {
+    color: #1790FA;
+}
+
+.contact h2{
+    margin-top: 100px;
+}
+
+.hr2{
+    margin-top: 200px;
+    border: dotted #0713F0 8px;
+    border-bottom: 0;
+    width: 10%;
+    margin-left: 45%;
+}
+
+.btn{
+    margin-top: 100px;
+    background-color: #52A9F7;
+    border-color: #52A9F7;
+}
+
+.resume1{
+    background-color: #557BE0;
+    border-color: #557BE0 ;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+    padding-bottom: 50px;
+}
+
+.project1{
+    background-color: #5252F7;
+    border-color: #5252F7;
+}
+
+.about1{
+    background-color: #794EED;
+    border-color: #794EED;
+}
